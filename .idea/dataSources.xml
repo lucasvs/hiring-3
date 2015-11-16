@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2621921006">
+    <data-source source="LOCAL" name="SQLite -" uuid="1f262f49-91ac-4d11-a4c5-ba9823b450ac">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/exer4/database/exer4.sqlite</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="SQLite - [2]" uuid="b5ec3a9f-eccb-4129-a458-0dec1b26c620">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/exer5/storage/exer5.sqlite</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
